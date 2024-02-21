@@ -1,0 +1,10 @@
+streamlit==24.0
+pandas
+numpy
+openai==0.28.1
+langchain
+SQLAlchemy
+unstructured
+unstructured[pdf]
+chromadb==0.4.11
+tiktoken
