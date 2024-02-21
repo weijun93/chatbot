@@ -5,6 +5,6 @@ langchain
 SQLAlchemy
 unstructured
 unstructured[pdf]
-sqlite3==0.5.2
+pysqlite3==0.5.2
 chromadb==0.4.11
 tiktoken
