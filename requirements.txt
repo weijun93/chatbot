@@ -1,3 +1,4 @@
+libgl
 pandas
 numpy
 openai==0.28.1
